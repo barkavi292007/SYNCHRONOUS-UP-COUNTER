@@ -44,3 +44,7 @@ Developed by: RegisterNumber:
 **TRUTH TABLE**
 
 **RESULTS**
+logic diagram:
+![up counter logic diagram](https://github.com/user-attachments/assets/6a82e92a-8f5b-40b9-b4ad-eb0da5da1861)
+state diagram:
+![up counter state diagram](https://github.com/user-attachments/assets/d94a847f-3991-40f2-a30d-97554b1cd8ec)
